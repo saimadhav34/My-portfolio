@@ -25,19 +25,12 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1ISfxfgDesnmt2ObqABIe_HUspQQLdQuf/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/saimadhav34/My-portfolio",
   githubProfile: "https://github.com/saimadhav34",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/r00pasri1",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "saimadhav3414@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  
 
   {
     name: "Github",
@@ -226,7 +219,7 @@ const degrees = {
       alt_name: "vaagdevi",
       duration: "2021 - 2025",
       descriptions: [
-        "⚡ Currently pursuing a B.Tech in CSE with coursework in machine learning and data analytics",
+        "⚡ Currently pursuing a B.Tech in CSM with coursework in machine learning and Artificial intelligence",
     "⚡ Proficient in programming languages like Python and Java, with practical experience in developing machine learning models",
     "⚡ Strong problem-solving skills developed through academic projects and practical machine learning applications",
     "⚡ Experienced in data preprocessing, feature engineering, and model training using libraries like Scikit-learn and Pandas",
